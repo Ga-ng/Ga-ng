@@ -13,8 +13,8 @@
   
   ### KYUNGHYUN KIM
   ---
-<a href="https://kgang.tistory.com/"><img height="30em" src="https://img.shields.io/badge/GANG-E5511E?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
-<a href="https://github.com/Ga-ng"><img height="30em" src="https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white"/></a> 
+<a href="https://kgang.tistory.com/"><img height="30em" src="https://img.shields.io/badge/GANG-white?style=for-the-badge&logo=Tistory&logoColor=black"/></a> 
+<a href="https://github.com/Ga-ng"><img height="30em" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
   
   <div align="center">
